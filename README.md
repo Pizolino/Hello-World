@@ -1,2 +1,5 @@
 # Hello-World
-This is a short description. :)
+
+Hello everyone,
+
+My name is Mateo, and I'm learning how to code. :)
